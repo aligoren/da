@@ -6,6 +6,8 @@ When element's attribute change you can handle it with this mini class.
 
 You need to `new` keyword to initialize **da** for each element.
 
+**params:** ['detail', 'filter'] all parameters are optional.
+
 ```javascript
 import da from "./da";
 
